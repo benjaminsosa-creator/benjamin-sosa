@@ -1,0 +1,57 @@
+h1{
+	color: #87551b;
+}
+
+body{
+	background-color: #e7dfd8;
+}
+
+p{
+	color: #f00;
+}
+
+.greenParagraph{
+	color: #0f0;
+}
+
+table, td{
+	border-style: dashed;
+}
+
+td{
+	border-width: 2px;
+	border-color: #aa2356;
+}
+table{
+	border-width: 4px;
+	border-color: #34ab56;
+	margin-left: auto;
+	margin-right: auto;
+}
+body{
+	background-size: 300px;
+	background-repeat: repeat-y;
+	background-position: right top;
+}
+
+img{
+	border-radius: 25px;
+}
+
+img:hover{
+	opacity: 0.75;
+}
+
+ul{
+	list-style-type: none;
+	background-color: #c2a146;
+	overflow: hidden;
+}
+li{
+	float: left;
+	display: block;
+	width: 50px;
+	background-color: #c2a1ff;
+
+}
+
