@@ -4,6 +4,12 @@ h1{
 
 body{
 	background-color: #e7dfd8;
+	overflow: hidden;
+}
+.container{
+	width: 500px;
+	text-align: center;
+	overflow: hidden;
 }
 
 p{
@@ -13,10 +19,10 @@ p{
 .greenParagraph{
 	color: #0f0;
 }
-
 table, td{
 	border-style: solid;
 }
+
 
 td{
 	border-width: 2px;
