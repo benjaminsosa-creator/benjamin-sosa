@@ -12,6 +12,16 @@ body{
 	overflow: hidden;
 }
 
+.slides{
+	display: flex;
+	overflow-x: auto;
+	scroll-behavior: smooth;
+
+}
+.slides img{
+	width: 500px;
+}
+
 p{
 	color: #f00;
 }
@@ -66,3 +76,10 @@ li a{
 
 }
 
+.slides{
+    width: 300px;
+
+    text-align: center;
+    overflow: hidden;
+
+}
